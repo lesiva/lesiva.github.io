@@ -1,3 +1,7 @@
+html{
+	zoom: 100%;
+}
+
 @media all and (max-width: 530px) {
   	.nomobile {
     	display: none;
