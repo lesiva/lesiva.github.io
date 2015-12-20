@@ -76,7 +76,7 @@ body{
 }
 
 #menu li{
-	font-size: 15px;
+	font-size: 12px;
 	flex-grow: 1;
 	display: inline;
 	background: black;
